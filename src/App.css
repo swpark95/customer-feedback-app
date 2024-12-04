@@ -112,7 +112,8 @@ body {
 
 .not-convinced button {
   margin-top: 20px;
-  padding: 10px 20px;
+  padding: 16px 20px;
+  font-size:meidum;
   background-color: #000;
   color: #fff;
   border: none;
